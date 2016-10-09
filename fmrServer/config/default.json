@@ -1,0 +1,4 @@
+{
+
+  "dbUrl" : "postgres://postgres:root@localhost/fmrtest"
+}
